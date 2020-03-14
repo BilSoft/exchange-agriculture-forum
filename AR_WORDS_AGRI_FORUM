@@ -1,1 +1,11 @@
+STATUS = الحالة
+PROBLEM_STATUS = مشكلة الحالة
+PRODUCT_STATUS = حالة بحث عل المنتج
+INFORMATION_STATUS = حالة تبادل المعلومات
+COMPANY_SOLUTION_PRODUCT = شركة حلول المنتجاتT
+COMMENT =  التعليق
+RESPONSE_COMMENT = الرد على التعليق
+RESPONSE_OF_RESPONSE_COMMENT = الرد على التعليق
+PRODUCT = المنتج
+RESOLVED PROBLEM = حل المشكلة
 
